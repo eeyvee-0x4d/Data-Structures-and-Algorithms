@@ -3,7 +3,5 @@ This repository intends to compile all exercise programs I used or wrote while l
 
 <footer>
   <h6>References:</h6>
-  <li>
-    <ul>Data Structures and Algorithms Using Python(2011) - R.Necaise</ul>
-  </li>
+  <ul>Data Structures and Algorithms Using Python(2011) - R.Necaise</ul>
 </footer>
